@@ -84,17 +84,17 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md" style ="color:aqua;">
+                <div class="title m-b-md">
                    Performance Management System
                 </div>
 
                 <div class="links">
-                    <a style ="color:aqua;" href="https://laravel.com/docs">Learn</a>
-                    <a style ="color:aqua;"  href="https://laracasts.com">Educate</a>
-                    <a style ="color:aqua;"  href="https://laravel-news.com">Improve</a>
-                    <a style ="color:aqua;"  href="https://nova.laravel.com">Nova</a>
-                    <a style ="color:aqua;"  href="https://forge.laravel.com">Forge</a>
-                    <a style ="color:aqua;"  href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs">Documentation</a>
+                    <a href="https://laracasts.com">Laracasts</a>
+                    <a href="https://laravel-news.com">News</a>
+                    <a href="https://nova.laravel.com">Nova</a>
+                    <a href="https://forge.laravel.com">Forge</a>
+                    <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
         </div>
